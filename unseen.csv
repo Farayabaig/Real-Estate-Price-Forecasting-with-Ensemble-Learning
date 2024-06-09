@@ -1,0 +1,16 @@
+Area,City,Neighborhood,Property type,Space
+Riyadh region,Riyadh,Al-Uraija,land,400
+Eastern Region,alkhabar,Al-Azizia,land,500
+Makkah Region,Taif,Al-Wisam,land,600
+Riyadh region,Riyadh,Al-Uraija,land,400
+Eastern Region,Alkhobar,Al-Azizia,land,500
+Makkah Region,Taif,Al-Wisam,land,600
+Riyadh region,Riyadh,Al-Muruj,building,350
+Eastern Region,Dammam,Al-Faisaliyah,apartment,200
+Makkah Region,Jeddah,Al-Hamra,shop,150
+Riyadh region,Riyadh,Al-Nakheel,villa,500
+Eastern Region,Alkhobar,Al-Rawdah,house,450
+Makkah Region,Jeddah,Al-Safa,land,700
+Riyadh region,Riyadh,Al-Olaya,office,250
+Eastern Region,Dammam,Al-Badiyah,warehouse,800
+Makkah Region,Mecca,Al-Awali,land,600
